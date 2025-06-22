@@ -1,0 +1,15 @@
+
+    Product: SmartHome Device
+    Version: 2.1
+    Features:
+    - Voice-activated controls
+    - Wi-Fi connectivity (2.4GHz and 5GHz)
+    - Compatible with iOS and Android
+    Troubleshooting:
+    - If device doesn't connect to Wi-Fi, reset by holding power button for 10 seconds
+    - For voice recognition issues, ensure microphone is not obstructed
+    Setup Instructions:
+    1. Plug in the device
+    2. Download SmartHome app
+    3. Follow in-app setup wizard
+    
